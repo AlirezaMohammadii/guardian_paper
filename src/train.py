@@ -88,8 +88,8 @@ if __name__ == "__main__":
 
     ###################################################### change detail here ################################################
 
-    epochs = 100
-    batch_size = 20
+    epochs = 50
+    batch_size = 32
 
     embedding_folder = "../data/sample_dataset/embedding/"
 
